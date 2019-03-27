@@ -37,7 +37,6 @@
                     android:orientation="vertical">
 
                     <TextView
-                        style="?android:textAppearanceLarge"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="@dimen/activity_margin_horizontal"
@@ -91,7 +90,7 @@
                         android:layout_marginStart="@dimen/activity_margin_horizontal">
 
                         <TextView
-                            style="?android:textAppearanceMedium"
+
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="@dimen/activity_margin_horizontal"
@@ -145,7 +144,6 @@
                         android:layout_marginStart="@dimen/activity_margin_horizontal">
 
                         <TextView
-                            style="?android:textAppearanceMedium"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="@dimen/activity_margin_horizontal"
@@ -209,7 +207,7 @@
                         android:layout_marginStart="@dimen/activity_margin_horizontal">
 
                         <TextView
-                            style="?android:textAppearanceMedium"
+
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:id="@+id/images_used_by_wiki_text"
@@ -269,7 +267,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/statistics"
-                        style="?android:textAppearanceLarge"
                         android:layout_marginLeft="@dimen/activity_margin_horizontal"
                         android:layout_marginStart="@dimen/activity_margin_horizontal"
                         android:layout_marginTop="@dimen/activity_margin_vertical" />
@@ -303,7 +300,6 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                style="?android:textAppearanceMedium"
                                 android:layout_marginStart="@dimen/activity_margin_horizontal"
                                 android:layout_marginLeft="@dimen/activity_margin_horizontal"
                                 android:layout_marginEnd="@dimen/activity_margin_horizontal"
@@ -327,7 +323,6 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            style="?android:textAppearanceMedium"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentEnd="true"
                             android:layout_marginLeft="@dimen/activity_margin_horizontal"
@@ -371,7 +366,6 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                style="?android:textAppearanceMedium"
                                 android:layout_marginStart="@dimen/activity_margin_horizontal"
                                 android:layout_marginLeft="@dimen/activity_margin_horizontal"
                                 android:layout_marginEnd="@dimen/activity_margin_horizontal"
@@ -394,7 +388,6 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            style="?android:textAppearanceMedium"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentEnd="true"
                             android:layout_marginTop="@dimen/activity_margin_horizontal"
@@ -438,7 +431,6 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                style="?android:textAppearanceMedium"
                                 android:layout_marginStart="@dimen/activity_margin_horizontal"
                                 android:layout_marginLeft="@dimen/activity_margin_horizontal"
                                 android:layout_marginEnd="@dimen/activity_margin_horizontal"
@@ -461,7 +453,6 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            style="?android:textAppearanceMedium"
                             android:layout_alignParentRight="true"
                             android:layout_alignParentEnd="true"
                             android:layout_marginTop="@dimen/activity_margin_horizontal"

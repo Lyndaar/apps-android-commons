@@ -154,7 +154,7 @@ public class Achievements {
     public int getNotRevertPercentage(){
         try {
             return ((imagesUploaded - revertCount) * 100)/imagesUploaded;
-        } catch (ArithmeticException divideByZero ){
+        } catch (ArithmeticException divideByZero){
            return 100;
         }
     }

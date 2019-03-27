@@ -68,7 +68,7 @@
     </style>
 
     <style name="WhiteSearchBarTheme" parent="DarkAppTheme">
-        <item name="colorControlActivated">@android:color/white</item>
+        <item name="colorControlActivated">@color/white</item>
     </style>
 
     <style name="DarkSpinnerTheme" parent="DarkAppTheme">
@@ -89,11 +89,11 @@
 
     <style name="ProgressBar" parent="Widget.AppCompat.ProgressBar.Horizontal" />
 
-    <style name="borderless_dialog">
+    <!--<style name="borderless_dialog">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:background">@android:color/transparent</item>
-    </style>
+    </style>-->
 
     <style name="LevelOne">
         <item name="boundary">#ddb4aa</item>
